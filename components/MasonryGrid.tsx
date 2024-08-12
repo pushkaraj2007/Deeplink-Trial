@@ -12,7 +12,7 @@ interface MasonryGridProps {
 }
 
 const MasonryGrid: React.FC<MasonryGridProps> = ({ items, breakpoints }) => {
-  const redirectUrl = 'https://youtu.be/51fWzJ-A5w4?si=ZWcEF3yhjhFMaU40';
+  const redirectUrl = 'https://www.instagram.com/reel/C9KvgFdoUo2/?igsh=MW1wZjZ6N2JzZHE1MA==';
 
   const handleRedirect = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
